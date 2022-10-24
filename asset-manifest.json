@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/sam-portfolio/static/css/main.d9afcaf3.css",
-    "main.js": "/sam-portfolio/static/js/main.d67c76c1.js",
-    "static/js/787.a2cb61a6.chunk.js": "/sam-portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/portfolio6.png": "/sam-portfolio/static/media/portfolio6.ab1ca9df2dc53e5b1ab1.png",
-    "static/media/portfolio4.png": "/sam-portfolio/static/media/portfolio4.c092683ce374e662682f.png",
-    "static/media/portfolio5.png": "/sam-portfolio/static/media/portfolio5.f10217594e308dd0a536.png",
-    "static/media/me.PNG": "/sam-portfolio/static/media/me.4921f4085e40fcd35674.PNG",
-    "static/media/portfolio2.jpg": "/sam-portfolio/static/media/portfolio2.a6ade4606450a05fd182.jpg",
-    "static/media/portfolio3.jpg": "/sam-portfolio/static/media/portfolio3.0850c4130aefe9737f11.jpg",
-    "static/media/portfolio1.jpg": "/sam-portfolio/static/media/portfolio1.e5c53110e530dea20da4.jpg",
-    "static/media/cv.pdf": "/sam-portfolio/static/media/cv.be3a95b395441dda75c7.pdf",
-    "index.html": "/sam-portfolio/index.html",
-    "main.d9afcaf3.css.map": "/sam-portfolio/static/css/main.d9afcaf3.css.map",
-    "main.d67c76c1.js.map": "/sam-portfolio/static/js/main.d67c76c1.js.map",
-    "787.a2cb61a6.chunk.js.map": "/sam-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/sam-react-portfolio/static/css/main.d9afcaf3.css",
+    "main.js": "/sam-react-portfolio/static/js/main.736c8f38.js",
+    "static/js/787.a2cb61a6.chunk.js": "/sam-react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/portfolio6.png": "/sam-react-portfolio/static/media/portfolio6.ab1ca9df2dc53e5b1ab1.png",
+    "static/media/portfolio4.png": "/sam-react-portfolio/static/media/portfolio4.c092683ce374e662682f.png",
+    "static/media/portfolio5.png": "/sam-react-portfolio/static/media/portfolio5.f10217594e308dd0a536.png",
+    "static/media/me.PNG": "/sam-react-portfolio/static/media/me.4921f4085e40fcd35674.PNG",
+    "static/media/portfolio2.jpg": "/sam-react-portfolio/static/media/portfolio2.a6ade4606450a05fd182.jpg",
+    "static/media/portfolio3.jpg": "/sam-react-portfolio/static/media/portfolio3.0850c4130aefe9737f11.jpg",
+    "static/media/portfolio1.jpg": "/sam-react-portfolio/static/media/portfolio1.e5c53110e530dea20da4.jpg",
+    "static/media/cv.pdf": "/sam-react-portfolio/static/media/cv.be3a95b395441dda75c7.pdf",
+    "index.html": "/sam-react-portfolio/index.html",
+    "main.d9afcaf3.css.map": "/sam-react-portfolio/static/css/main.d9afcaf3.css.map",
+    "main.736c8f38.js.map": "/sam-react-portfolio/static/js/main.736c8f38.js.map",
+    "787.a2cb61a6.chunk.js.map": "/sam-react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d9afcaf3.css",
-    "static/js/main.d67c76c1.js"
+    "static/js/main.736c8f38.js"
   ]
 }
