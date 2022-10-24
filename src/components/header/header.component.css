@@ -98,7 +98,17 @@ header {
 
 @media screen and (max-width: 1024px) {
   header {
-    height: 68vh;
+    margin-top: 2em;
+    padding-top: 0;
+  }
+
+  .header__container {
+    display: inline-block;
+    width: 80%;
+  }
+
+  .header-h5 {
+    margin-top: 1em;
   }
 }
 
@@ -106,7 +116,17 @@ header {
 
 @media screen and (max-width: 600px) {
   header {
-    height: 68vh;
+    margin-top: 2em;
+    padding-top: 0;
+  }
+
+  .header__container {
+    display: inline-block;
+    width: 80%;
+  }
+
+  .header-h5 {
+    margin-top: 1em;
   }
 
   .header__socials,
