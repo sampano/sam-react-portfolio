@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/sampano-react-portfolio/static/css/main.f131c187.css",
-    "main.js": "/sampano-react-portfolio/static/js/main.6ae0fb56.js",
-    "static/js/787.a2cb61a6.chunk.js": "/sampano-react-portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/portfolio6.png": "/sampano-react-portfolio/static/media/portfolio6.ab1ca9df2dc53e5b1ab1.png",
-    "static/media/portfolio2.png": "/sampano-react-portfolio/static/media/portfolio2.ed470c7428ff3c2fda38.png",
-    "static/media/portfolio4.png": "/sampano-react-portfolio/static/media/portfolio4.c092683ce374e662682f.png",
-    "static/media/portfolio1.png": "/sampano-react-portfolio/static/media/portfolio1.5073538ce000a49f4216.png",
-    "static/media/portfolio5.png": "/sampano-react-portfolio/static/media/portfolio5.f10217594e308dd0a536.png",
-    "static/media/me.PNG": "/sampano-react-portfolio/static/media/me.4921f4085e40fcd35674.PNG",
-    "static/media/portfolio3.png": "/sampano-react-portfolio/static/media/portfolio3.17a8413ed3ec7de7a99a.png",
-    "static/media/cv.pdf": "/sampano-react-portfolio/static/media/cv.9b21989c11d4a784fec8.pdf",
-    "index.html": "/sampano-react-portfolio/index.html",
-    "main.f131c187.css.map": "/sampano-react-portfolio/static/css/main.f131c187.css.map",
-    "main.6ae0fb56.js.map": "/sampano-react-portfolio/static/js/main.6ae0fb56.js.map",
-    "787.a2cb61a6.chunk.js.map": "/sampano-react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/sam-react-portfolio/static/css/main.f131c187.css",
+    "main.js": "/sam-react-portfolio/static/js/main.edb06be0.js",
+    "static/js/787.a2cb61a6.chunk.js": "/sam-react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/portfolio6.png": "/sam-react-portfolio/static/media/portfolio6.ab1ca9df2dc53e5b1ab1.png",
+    "static/media/portfolio2.png": "/sam-react-portfolio/static/media/portfolio2.ed470c7428ff3c2fda38.png",
+    "static/media/portfolio4.png": "/sam-react-portfolio/static/media/portfolio4.c092683ce374e662682f.png",
+    "static/media/portfolio1.png": "/sam-react-portfolio/static/media/portfolio1.5073538ce000a49f4216.png",
+    "static/media/portfolio5.png": "/sam-react-portfolio/static/media/portfolio5.f10217594e308dd0a536.png",
+    "static/media/me.PNG": "/sam-react-portfolio/static/media/me.4921f4085e40fcd35674.PNG",
+    "static/media/portfolio3.png": "/sam-react-portfolio/static/media/portfolio3.17a8413ed3ec7de7a99a.png",
+    "static/media/cv.pdf": "/sam-react-portfolio/static/media/cv.9b21989c11d4a784fec8.pdf",
+    "index.html": "/sam-react-portfolio/index.html",
+    "main.f131c187.css.map": "/sam-react-portfolio/static/css/main.f131c187.css.map",
+    "main.edb06be0.js.map": "/sam-react-portfolio/static/js/main.edb06be0.js.map",
+    "787.a2cb61a6.chunk.js.map": "/sam-react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f131c187.css",
-    "static/js/main.6ae0fb56.js"
+    "static/js/main.edb06be0.js"
   ]
 }
