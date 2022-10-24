@@ -1,7 +1,7 @@
 import "./portfolio.component.css";
-import IMG1 from "../../assets/portfolio1.png";
-import IMG2 from "../../assets/portfolio2.png";
-import IMG3 from "../../assets/portfolio3.png";
+import IMG1 from "../../assets/portfolio1.jpg";
+import IMG2 from "../../assets/portfolio2.jpg";
+import IMG3 from "../../assets/portfolio3.jpg";
 import IMG4 from "../../assets/portfolio4.png";
 import IMG5 from "../../assets/portfolio5.png";
 import IMG6 from "../../assets/portfolio6.png";
@@ -11,9 +11,9 @@ const Portfolio = () => {
     {
       id: 1,
       image: IMG1,
-      title: "Project Number One",
-      github: "https://github.com",
-      demo: "https://github.com",
+      title: "Creative Single Landing Page",
+      github: "https://github.com/sampano/singlepage-website.git",
+      demo: "https://sampano.github.io/singlepage-website/",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam consequatur natus recusandae ex est perferendis.",
     },
@@ -21,9 +21,9 @@ const Portfolio = () => {
     {
       id: 2,
       image: IMG2,
-      title: "Project Number One",
-      github: "https://github.com",
-      demo: "https://github.com",
+      title: "Recipe Finder",
+      github: "https://github.com/sampano/meal-finder.git",
+      demo: "https://sampano.github.io/meal-finder/",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam consequatur natus recusandae ex est perferendis.",
     },
@@ -31,9 +31,9 @@ const Portfolio = () => {
     {
       id: 3,
       image: IMG3,
-      title: "Project Number One",
-      github: "https://github.com",
-      demo: "https://github.com",
+      title: "Monster Rolodex",
+      github: "https://github.com/sampano/monsters-rolodex-func-comp.git",
+      demo: "https://sampano.github.io/monsters-rolodex-func-comp/",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam consequatur natus recusandae ex est perferendis.",
     },
