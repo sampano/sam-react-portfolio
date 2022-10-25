@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sam-react-portfolio/static/css/main.d9afcaf3.css",
-    "main.js": "/sam-react-portfolio/static/js/main.8fe18462.js",
+    "main.css": "/sam-react-portfolio/static/css/main.7163888b.css",
+    "main.js": "/sam-react-portfolio/static/js/main.360453d4.js",
     "static/js/787.a2cb61a6.chunk.js": "/sam-react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/portfolio6.png": "/sam-react-portfolio/static/media/portfolio6.ab1ca9df2dc53e5b1ab1.png",
     "static/media/portfolio4.png": "/sam-react-portfolio/static/media/portfolio4.c092683ce374e662682f.png",
@@ -12,12 +12,12 @@
     "static/media/portfolio1.jpg": "/sam-react-portfolio/static/media/portfolio1.e5c53110e530dea20da4.jpg",
     "static/media/cv.pdf": "/sam-react-portfolio/static/media/cv.eb2d8eafee330601a8b4.pdf",
     "index.html": "/sam-react-portfolio/index.html",
-    "main.d9afcaf3.css.map": "/sam-react-portfolio/static/css/main.d9afcaf3.css.map",
-    "main.8fe18462.js.map": "/sam-react-portfolio/static/js/main.8fe18462.js.map",
+    "main.7163888b.css.map": "/sam-react-portfolio/static/css/main.7163888b.css.map",
+    "main.360453d4.js.map": "/sam-react-portfolio/static/js/main.360453d4.js.map",
     "787.a2cb61a6.chunk.js.map": "/sam-react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9afcaf3.css",
-    "static/js/main.8fe18462.js"
+    "static/css/main.7163888b.css",
+    "static/js/main.360453d4.js"
   ]
 }
