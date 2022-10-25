@@ -55,11 +55,13 @@ const Skills = () => {
 
         <div className="experience__backend">
           <h3>Other Skills</h3>
-          <div className="experience__content">
+          <div className="experience__content other__skills">
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__icon" />
               <div>
-                <h4>Windows Server</h4>
+                <h4>
+                  Windows <br /> Server
+                </h4>
                 <small className="text-light">Proficient</small>
               </div>
             </article>
@@ -67,7 +69,9 @@ const Skills = () => {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__icon" />
               <div>
-                <h4>Citrix Troubleshooting</h4>
+                <h4>
+                  Citrix <br /> Troubleshooting
+                </h4>
                 <small className="text-light">Proficient</small>
               </div>
             </article>
@@ -75,7 +79,10 @@ const Skills = () => {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__icon" />
               <div>
-                <h4>VDI Troubleshooting</h4>
+                <h4>
+                  VDI <br />
+                  Troubleshooting
+                </h4>
                 <small className="text-light">Proficient</small>
               </div>
             </article>
@@ -83,7 +90,10 @@ const Skills = () => {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__icon" />
               <div>
-                <h4>Computer Hardware</h4>
+                <h4>
+                  Computer <br />
+                  Hardware
+                </h4>
                 <small className="text-light">Expert</small>
               </div>
             </article>
