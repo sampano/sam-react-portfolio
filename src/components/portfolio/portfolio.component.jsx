@@ -2,7 +2,7 @@ import "./portfolio.component.css";
 import IMG1 from "../../assets/portfolio1.jpg";
 import IMG2 from "../../assets/portfolio2.jpg";
 import IMG3 from "../../assets/portfolio3.jpg";
-import IMG4 from "../../assets/portfolio4.png";
+import IMG4 from "../../assets/portfolio4.jpg";
 import IMG5 from "../../assets/portfolio5.png";
 import IMG6 from "../../assets/portfolio6.png";
 
@@ -41,8 +41,8 @@ const Portfolio = () => {
     {
       id: 4,
       image: IMG4,
-      title: "Project Number One",
-      github: "https://github.com",
+      title: "Youtube Clone",
+      github: "https://github.com/sampano/youtube-clone.git",
       demo: "https://github.com",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam consequatur natus recusandae ex est perferendis.",
