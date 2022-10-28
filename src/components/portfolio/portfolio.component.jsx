@@ -43,7 +43,7 @@ const Portfolio = () => {
       image: IMG4,
       title: "Youtube Clone",
       github: "https://github.com/sampano/youtube-clone.git",
-      demo: "https://github.com",
+      demo: "https://sampano.github.io/youtube-clone/",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam consequatur natus recusandae ex est perferendis.",
     },
