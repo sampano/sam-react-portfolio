@@ -51,9 +51,9 @@ const Portfolio = () => {
     {
       id: 5,
       image: IMG5,
-      title: "Project Number One",
-      github: "https://github.com",
-      demo: "https://github.com",
+      title: "Travel Buddy",
+      github: "https://github.com/sampano/travel-buddy",
+      demo: "https://sampano.github.io/travel-buddy/",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam consequatur natus recusandae ex est perferendis.",
     },
